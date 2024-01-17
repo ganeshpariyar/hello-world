@@ -1,3 +1,5 @@
 # hello-world
 The first demo code.
-Ganesh Pariay - USF - civil engineering
+Ganesh Pariyar - USF - civil engineering
+
+I am from NEPAL. I love playing soccer but I always have a injury in my knee. 
